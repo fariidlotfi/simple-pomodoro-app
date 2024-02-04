@@ -1,0 +1,10 @@
+.button {
+  border: none;
+  outline: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.button:active {
+  translate: 0 1px;
+}

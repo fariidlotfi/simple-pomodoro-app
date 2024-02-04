@@ -1,0 +1,10 @@
+.box {
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}

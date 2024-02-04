@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100svh;
+  transition: all 500ms ease-in-out;
+}
+
+.red-background{
+  background: #BA4949;
+}
+
+.green-background{
+  background: #38858A;
+}
+
+.blue-background{
+  background: #397097;
+}
