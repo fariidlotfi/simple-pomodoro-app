@@ -1,5 +1,5 @@
 # View Online
-[View Online Demo](https://fariidlotfi.github.io/simple-pomodoro-app/)
+[View Demo Online](https://fariidlotfi.github.io/simple-pomodoro-app/)
 
 # Screenshots
 
